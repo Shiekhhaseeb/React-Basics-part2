@@ -28,6 +28,7 @@ display: inline-block;
 } */
 
 /*******************************/
+/*1. External css: causes mess in large files */
 .button{
 background-color:hsl(200,100%,50%) ;
 color: white;
